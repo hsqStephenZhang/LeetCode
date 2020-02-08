@@ -1,0 +1,14 @@
+DP题型：
+
+1.硬币找零，路径规划
+2.字符串相似度/编辑距离（edit distance）
+3.最长公共子序列(Longest Common Subsequence,lcs)
+4.最长递增子序列（Longest Increasing Subsequence,lis）
+5.最大子序列积
+6.矩阵链乘法
+7.0-1背包问题
+8.有代价的最短路径
+9.瓷砖覆盖（状态压缩DP）
+10.工作量划分
+11.三路取苹果
+12.计数问题
